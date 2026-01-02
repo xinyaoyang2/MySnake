@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Button" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Button::ButtonState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Button.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Button::__unnamed_struct_0524_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Button.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAACAQAAAABAAAgAAIAAgAgAgAACEAAAAAAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Food">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAABAAAABAAAAAAAAAAAgIACYABgAkAAAAQ=</HashCode>
+      <FileName>Food.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameControl" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAEAAIAAAiAgAAAAgIAQAAAAAAAAAAAAAiAAACg=</HashCode>
+      <FileName>GameControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMode" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMhgAAAAATIAAAAAAQIoAAAAIAAAAAAACgAEAAABAII=</HashCode>
+      <FileName>GameMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteMode" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAACAAAAAAAQIAAAAAJAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>InfiniteMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAhCAAAABAAAAAAAAQAAAQQCAAACIAAAAAAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segment" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAEAAQAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAiAAoCEAAEIgAEEAAAIAgKYQkGFAAYlKQAoAII=</HashCode>
+      <FileName>Snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimedMode" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgBAAAACAAAAAAAQIAAAAAIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TimedMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GameRecord" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAACAAAAJAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>common.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="CallBack" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="Page" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAACAQAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GameControl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dir" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAChAAAAA=</HashCode>
+      <FileName>Snake.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
