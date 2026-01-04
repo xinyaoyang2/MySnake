@@ -186,7 +186,7 @@ bool Snake::ColideSnake()
 	Segment pos = *it;
 	Segment next_pos;
 	it++;
-
+	
 	while (it != this->m_snakelist.end())
 	{
 		next_pos = *it;

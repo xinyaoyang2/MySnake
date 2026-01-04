@@ -21,7 +21,7 @@ enum class Page {
     GAME_MODE_SELECT,       //游戏模式选择界面
     GAME,                   //开始游戏--正式的游戏界面（游戏模式选择完毕后进入）
     RECORDS,                //游戏记录
-    HELP,                    //帮助界面
+    HELP,                   //帮助界面
     RETURN                  //退出游戏
 };
 
